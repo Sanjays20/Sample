@@ -7,11 +7,15 @@ public class MyJava {
 
 	public static void main(String[] args) {
 		
+
 		List<Object> li=new ArrayList<>();
 		
 		li.add("Sanjay");
 		
 		li.add(13);
+		
+		li.add(23);
+
 		
 	}
 }
