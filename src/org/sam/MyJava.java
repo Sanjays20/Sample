@@ -1,11 +1,21 @@
 package org.sam;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MyJava {
 
 	public static void main(String[] args) {
 		
-		li.add(23);
+
+		List<Object> li=new ArrayList<>();
 		
+		li.add("Sanjay");
+		
+		li.add(13);
+		
+		li.add(23);
+
 		
 	}
 }
